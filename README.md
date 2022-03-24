@@ -2,9 +2,7 @@
 
 https://github.com/coding-to-music/denver-poverty-map
 
-https://coding-to-music.github.io/denver-poverty-map/ (does not work)
-
-https://mb13534.github.io/denver-poverty-map/ (works)
+https://coding-to-music.github.io/denver-poverty-map
 
 By Michael Barry https://github.com/MB13534
 
@@ -18,23 +16,10 @@ This is an open-source collaboration with the volunteer group, 'Code for Denver.
 
 javascript api mapbox volunteering nodejs
 
-## Setup
+## Deploy to GitHub Pages
 
 ```java
-  "scripts": {
-    "start": "node backend/server",
-    "server": "nodemon backend/server",
-    "client": "npm start --prefix frontend",
-    "dev": "concurrently \"npm run server\" \"npm run client\"",
-    "data:import": "node backend/seeder",
-    "data:destroy": "node backend/seeder -d",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend"
-```
+# Works
 
-## Deploy to Heroku
-
-```java
-heroku create denver-poverty-map
-
-heroku logs --tail
+https://coding-to-music.github.io/denver-poverty-map
 ```
