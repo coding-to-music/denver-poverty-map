@@ -2,7 +2,9 @@
 
 https://github.com/coding-to-music/denver-poverty-map
 
-https://denver-poverty-map.herokuapp.com/
+https://coding-to-music.github.io/denver-poverty-map/ (does not work)
+
+https://mb13534.github.io/denver-poverty-map/ (works)
 
 By Michael Barry https://github.com/MB13534
 
