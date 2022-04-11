@@ -1,4 +1,4 @@
-# Taylor ECommerce with MongoDB, load sample data, product inventory, and user accounts, cart
+# denver-poverty-map using mapbox and census data
 
 https://github.com/coding-to-music/denver-poverty-map
 
